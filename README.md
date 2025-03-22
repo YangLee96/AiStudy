@@ -1,2 +1,2 @@
 # AiStudy
-forAiStudyPersonal
+forAiStudyPersonal from 3.22 now
